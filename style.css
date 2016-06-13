@@ -32,7 +32,7 @@ a:hover{
 	top: 40%;
 	left: 50%;
 	margin: -39px 0 0 -190px;
-	background: white url(u_launcher.png) no-repeat center center;
+	background: white url(logo.png) no-repeat center center;
 	text-indent: -9999px;
 }
 .logo:before{
